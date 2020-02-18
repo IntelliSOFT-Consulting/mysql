@@ -1,2 +1,3 @@
 # mysql
-Docker Image for mysql 5.6 for OpenMRS
+Docker container for MySQL 5.6 database.
+This relational database used by OpenMRS.
